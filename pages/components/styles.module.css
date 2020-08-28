@@ -1,0 +1,9 @@
+.wrapper {
+  @apply bg-gray-200 p-4 shadow-md;
+}
+
+.palpiteimg {
+  @apply mx-auto;
+  width: 150px;
+  height: auto;
+}
