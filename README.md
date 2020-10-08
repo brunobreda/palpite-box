@@ -4,8 +4,6 @@
 
 Este projeto foi construído durante a Semana Fullstack Master do [DevPleno](https://devpleno.com). Uma versão online deste projeto pode ser encontrada em: https://palpite-box-lemon.vercel.app/.
 
-![Preview](https://github.com/tuliofaria/palpite-box/blob/master/print.png?raw=true) editar
-
 ## Início
 
 ### Pré-requisitos:
@@ -45,7 +43,7 @@ rapidly building custom designs.
 
 ## Licença
 
-Este projeto é licenciado sobre a licença MIT - veja [LICENSE.md](LICENSE.md) para mais informações.
+Este projeto é licenciado sobre a licença MIT.
 
 ## Acknowledgments
 
